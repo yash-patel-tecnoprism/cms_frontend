@@ -164,8 +164,8 @@ npm test
 ## Default Credentials
 
 To test the application, you can create a user or use the seeded credentials:
-- Email: admin@example.com
-- Password: password123
+- Email: yash@g.com
+- Password: yash1234
 
 ## License
 
